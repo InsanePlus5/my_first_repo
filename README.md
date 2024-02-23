@@ -7,3 +7,5 @@ Added text with web-browser
 Added text local
 
 Added text in new branch
+
+Added text for a complex situation
