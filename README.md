@@ -8,3 +8,4 @@ Added text local
 
 Added text in new branch
 
+Added text for a complex situation text in the browser
